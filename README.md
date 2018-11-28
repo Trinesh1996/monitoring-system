@@ -12,7 +12,8 @@ Note: Most of the features mentioned below are still in development.
 A system to be used in learning programs eg. We Think Code, Project codeX to faciliate better communication and improve students learning rate.
 
 Problem Statement:
-In learning programs such as Project CodeX, We Think Code, or any other educational institution communication between student and mentors are really important.
+
+- In learning programs such as Project CodeX, We Think Code, or any other educational institution communication between student and mentors are really important.
 We decided to build a system that makes learning fun and interactive by allowing active particiaption for code reviews in the chatroom.
 One to One communcation between students and mentors. Incentives for students to continuously improve their skills.
 
