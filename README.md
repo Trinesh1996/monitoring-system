@@ -20,7 +20,7 @@ One to One communcation between students and mentors. Incentives for students to
 Features:
 
 - Chatroom for mentors and students.
-- Direct one-to-one messaging for students and mentors.
+- Direct one-to-one messaging between students and mentors.
 - Progress monitoring by mentors for respective students.
   - Github repositories
   - CodeWars Ranking. (or any other platform similar)
