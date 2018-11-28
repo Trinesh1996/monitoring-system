@@ -29,24 +29,24 @@ Features:
   
 Mentors Will be able to:
 
-Track coding progress of the users / students.
-Mentors can give feedback to students.
-Respond to student Queries/Questions directly via one-to-one messaging.
-Reply to questions in the Chatroom.
-Monitor weekly coding quizes.
+- Track coding progress of the users / students.
+- Mentors can give feedback to students.
+- Respond to student Queries/Questions directly via one-to-one messaging.
+- Reply to questions in the Chatroom.
+- Monitor weekly coding quizes.
 
 Students Can:
 
-Review their Github Repositories - Github API
-Check their Rank in CodeWars amongst the group they are in.
-Be able to ask and answer questions in chat room.
-Able to communicate on a personal basis to mentors and students.
+- Review their Github Repositories - Github API
+- Check their Rank in CodeWars amongst the group they are in.
+- Be able to ask and answer questions in chat room.
+- Able to communicate on a personal basis to mentors and students.
 
 Contributers:
-Trinesh Chetty
-Ayabonga Booi
-Anele Tom
-Siyasanga Blayi
-Sbu Zibeko
+- Trinesh Chetty
+- Ayabonga Booi
+- Anele Tom
+- Siyasanga Blayi
+- Sbu Zibeko
 
 Link to prototype: https://founders-404.herokuapp.com/
